@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,10 +66,10 @@
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       inkscape:transform-center-y="-11.672127"
-       transform="matrix(13.675805,0,0,16.975162,-388.29212,-239.82774)"
+       inkscape:transform-center-y="-10.567844"
+       transform="matrix(10.696305,0,0,15.369188,-216.54967,-205.1421)"
        d="m 57.64137,17.008272 23.568829,40.822412 -47.137661,-10e-7 z"
-       inkscape:transform-center-x="3.4144629e-05" />
+       inkscape:transform-center-x="4.1504304e-05" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:0.62733367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -90,3 +90,4 @@
        d="m 57.64137,17.008272 23.568829,40.822412 -47.137661,-10e-7 z" />
   </g>
 </svg>
+
