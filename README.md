@@ -1,4 +1,4 @@
 # Branding
 my branding for yt and stuff
 drawing.svg is a white copy of my logo
-while opque_dark.svg
+while opque_dark.svg is a black copy of my logo
